@@ -7,6 +7,7 @@ count = 0
 for i in bucket_list['Buckets']:
     #print(i)
     count+=1
+p#rint(bucket_list)
 print(count)
     
     
