@@ -1,0 +1,160 @@
+{
+  "Buckets": [
+    {
+      "BucketName": "sarubucket1-first",
+      "Bucket Region": "ap-south-1",
+      "Objects": [
+        {
+          "Key": "dog2.jpg",
+          "Public": false,
+          "LastModified": "2023-08-14 15:03:49+00:00",
+          "ETag": "cf400ff02485715eac68fdfc9d8ab62b",
+          "StorageClass": "STANDARD",
+          "ObjectSize": 25936,
+          "x-amz-id-2": "YqbzZrJlML1y859z4n4C2HMfG4gTF1DG6YkWe8t98jgHwgH/gCAPJT9EGDhzbet1lreytkgL3Ro=",
+          "x-amz-request-id": "KQAKMG9ZKQ75M5ZP",
+          "date": "Sun, 27 Aug 2023 16:02:45 GMT",
+          "last-modified": "Mon, 14 Aug 2023 15:03:49 GMT",
+          "server": "AmazonS3",
+          "content-length": "258"
+        },
+        {
+          "Key": "dog3.jpg",
+          "Public": false,
+          "LastModified": "2023-08-14 15:03:50+00:00",
+          "ETag": "036438f02b30b10170a7091a47b85cb7",
+          "StorageClass": "STANDARD",
+          "ObjectSize": 19902,
+          "x-amz-id-2": "67C/lGjHrB3303yRO+0mSGK0NBgFuWdPumwvVkS7Y5xl4iPQ7u+zOgm5TS2R7yG9PcifYPpVV4U=",
+          "x-amz-request-id": "KQANT3T7GC4M1XH4",
+          "date": "Sun, 27 Aug 2023 16:02:45 GMT",
+          "last-modified": "Mon, 14 Aug 2023 15:03:50 GMT",
+          "server": "AmazonS3",
+          "content-length": "258"
+        },
+        {
+          "Key": "dog4.jpg",
+          "Public": false,
+          "LastModified": "2023-08-14 15:03:51+00:00",
+          "ETag": "670ae264ec4765821b67033dcd06263d",
+          "StorageClass": "STANDARD",
+          "ObjectSize": 14145,
+          "x-amz-id-2": "hIGM+04OdX+bzSY+4Nin2l+Os2WrmJugEfRkpU9kOEkKMuf05xMgVbDgCka+BZyv2Bs8uZbwStw=",
+          "x-amz-request-id": "KQAZKKRVNNX40CGE",
+          "date": "Sun, 27 Aug 2023 16:02:45 GMT",
+          "last-modified": "Mon, 14 Aug 2023 15:03:51 GMT",
+          "server": "AmazonS3",
+          "content-length": "258"
+        }
+      ],
+      "CreatedDate": "2023-08-14 15:01:46+00:00",
+      "ObjectCount": 3,
+      "PublicObjectsCount": 0,
+      "PrivateObjectsCount": 3
+    },
+    {
+      "BucketName": "sarubucket2-second",
+      "Bucket Region": "ap-south-1",
+      "Objects": [
+        {
+          "Key": "dog1.jpg",
+          "Public": true,
+          "LastModified": "2023-08-14 15:03:20+00:00",
+          "ETag": "4598adf9ff249a30efdbb31650e82e27",
+          "StorageClass": "STANDARD",
+          "ObjectSize": 423922,
+          "x-amz-id-2": "wy9K1XFyBa+rb8/9cJDsJdbX5aYTmB24CpU9Sz09GYd7hX4XJOJ+n03iK2/+MC2Jif2FC+d2HE8=",
+          "x-amz-request-id": "EY2GAG3KCHYRZY81",
+          "date": "Sun, 27 Aug 2023 16:02:46 GMT",
+          "last-modified": "Mon, 14 Aug 2023 15:03:20 GMT",
+          "server": "AmazonS3",
+          "content-length": "259"
+        },
+        {
+          "Key": "dog10.jpg",
+          "Public": false,
+          "LastModified": "2023-08-14 15:05:46+00:00",
+          "ETag": "5746a0c8dfa0c8e7d8213a3dd7ffef00",
+          "StorageClass": "STANDARD",
+          "ObjectSize": 36795,
+          "x-amz-id-2": "cpP2UDMSx7ZmJ+/QwuFOLlLeUDUzAqBOB3n5k0JV+IsVM/1nRJZWK+PpzHlL4oadB0izi8oLAOc=",
+          "x-amz-request-id": "EY2SMQ2RFG3837M5",
+          "date": "Sun, 27 Aug 2023 16:02:46 GMT",
+          "last-modified": "Mon, 14 Aug 2023 15:05:46 GMT",
+          "server": "AmazonS3",
+          "content-length": "258"
+        },
+        {
+          "Key": "dog5.jpg",
+          "Public": true,
+          "LastModified": "2023-08-14 15:03:21+00:00",
+          "ETag": "8f8411210757d3b096b4a6d22d50f270",
+          "StorageClass": "STANDARD",
+          "ObjectSize": 18940,
+          "x-amz-id-2": "ptEmze8N/eCthURhqjA2ZOt1gB0ZivXrhpj7gf01bBohoz7Qw1aCMJCFP6c/TfaQ0G1dJUy4/uU=",
+          "x-amz-request-id": "EY2NPTQT914KGXSX",
+          "date": "Sun, 27 Aug 2023 16:02:46 GMT",
+          "last-modified": "Mon, 14 Aug 2023 15:03:21 GMT",
+          "server": "AmazonS3",
+          "content-length": "258"
+        },
+        {
+          "Key": "dog6.jpg",
+          "Public": true,
+          "LastModified": "2023-08-14 15:03:22+00:00",
+          "ETag": "7dbac940f2baa7de6d056f35d1b8330a",
+          "StorageClass": "STANDARD",
+          "ObjectSize": 31832,
+          "x-amz-id-2": "2tYA0EnLOJSEWEqrZdi2wTKXZXSxakSlzBEWs94tflEPiSr6j1VMHToe2DNt66QzGpkuX7r7MYc=",
+          "x-amz-request-id": "EY2JKB4H7PC1QQBE",
+          "date": "Sun, 27 Aug 2023 16:02:46 GMT",
+          "last-modified": "Mon, 14 Aug 2023 15:03:22 GMT",
+          "server": "AmazonS3",
+          "content-length": "258"
+        },
+        {
+          "Key": "dog7.jpg",
+          "Public": true,
+          "LastModified": "2023-08-14 15:03:22+00:00",
+          "ETag": "56f1a066401ce70b39a55642778a5796",
+          "StorageClass": "STANDARD",
+          "ObjectSize": 13396,
+          "x-amz-id-2": "b9E8ugLByVlQA5Rc9cZkyjc3/Z1gAAtC2H/282mgRccueNwnmQhr7c3wty01nzHVSx3QhOQ0R+U=",
+          "x-amz-request-id": "MJRETBH9P8TTKZ2P",
+          "date": "Sun, 27 Aug 2023 16:02:47 GMT",
+          "last-modified": "Mon, 14 Aug 2023 15:03:22 GMT",
+          "server": "AmazonS3",
+          "content-length": "258"
+        }
+      ],
+      "CreatedDate": "2023-08-14 15:02:28+00:00",
+      "ObjectCount": 5,
+      "PublicObjectsCount": 4,
+      "PrivateObjectsCount": 1
+    },
+    {
+      "BucketName": "sarubucket3-third",
+      "Bucket Region": "ap-south-1",
+      "Objects": [
+        {
+          "Key": "Object1",
+          "Public": false,
+          "LastModified": "2023-08-14 15:33:18+00:00",
+          "ETag": "4598adf9ff249a30efdbb31650e82e27",
+          "StorageClass": "STANDARD",
+          "ObjectSize": 423922,
+          "x-amz-id-2": "sQRQpSKwPU8grCH+VKmtY50ApBykhwUtDjpx5Tn1eCP2nRteYKcthdtAsCmeZUZmkvvJkQC7xsc=",
+          "x-amz-request-id": "MJR5YAE7FPT0TB4M",
+          "date": "Sun, 27 Aug 2023 16:02:47 GMT",
+          "last-modified": "Mon, 14 Aug 2023 15:33:18 GMT",
+          "server": "AmazonS3",
+          "content-length": "259"
+        }
+      ],
+      "CreatedDate": "2023-08-14 15:33:17+00:00",
+      "ObjectCount": 1,
+      "PublicObjectsCount": 0,
+      "PrivateObjectsCount": 1
+    }
+  ]
+}

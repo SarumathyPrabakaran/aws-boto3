@@ -1,0 +1,208 @@
+{
+  "Buckets": [
+    {
+      "BucketName": "sarubucket1-first",
+      "Region": "ap-south-1",
+      "Status": "Active",
+      "IsPublic": false,
+      "Objects": [
+        {
+          "ResponseMetadata": {
+            "RequestId": "Q2BP7DXBFSXF5YT5",
+            "HostId": "wUJwiy+3Keq6UJ85mxQFkryClarBEtLP7F8Yx/ecw3UsJ/12A2LxXV+IyRIW0l2eo4NP4rrNebY=",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+              "x-amz-id-2": "wUJwiy+3Keq6UJ85mxQFkryClarBEtLP7F8Yx/ecw3UsJ/12A2LxXV+IyRIW0l2eo4NP4rrNebY=",
+              "x-amz-request-id": "Q2BP7DXBFSXF5YT5",
+              "date": "Sun, 27 Aug 2023 10:28:34 GMT",
+              "last-modified": "Mon, 14 Aug 2023 15:03:49 GMT",
+              "server": "AmazonS3",
+              "content-length": "258"
+            },
+            "RetryAttempts": 0
+          },
+          "LastModified": "2023-08-14 15:03:49+00:00",
+          "ETag": "cf400ff02485715eac68fdfc9d8ab62b",
+          "StorageClass": "STANDARD",
+          "ObjectSize": 25936
+        },
+        {
+          "ResponseMetadata": {
+            "RequestId": "Q2BSB3GZKKRCVSD9",
+            "HostId": "x+io5zBYhHPiK4nRiBef1A4jlV3fk7/1zO+Q/MZ6pKlfJ91MT+O7btmsl1J5og2+nxkjHPd4ea8=",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+              "x-amz-id-2": "x+io5zBYhHPiK4nRiBef1A4jlV3fk7/1zO+Q/MZ6pKlfJ91MT+O7btmsl1J5og2+nxkjHPd4ea8=",
+              "x-amz-request-id": "Q2BSB3GZKKRCVSD9",
+              "date": "Sun, 27 Aug 2023 10:28:34 GMT",
+              "last-modified": "Mon, 14 Aug 2023 15:03:50 GMT",
+              "server": "AmazonS3",
+              "content-length": "258"
+            },
+            "RetryAttempts": 0
+          },
+          "LastModified": "2023-08-14 15:03:50+00:00",
+          "ETag": "036438f02b30b10170a7091a47b85cb7",
+          "StorageClass": "STANDARD",
+          "ObjectSize": 19902
+        },
+        {
+          "ResponseMetadata": {
+            "RequestId": "Q2BXEBAWAFJN24YJ",
+            "HostId": "W5Cw8OL9LYDw4pKDIFOfTvdQUOYpQ6LJ+lzWLYFRSbA1Yts5RYyzNxsyJJ9Htrf+ZYyoB9guwMA=",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+              "x-amz-id-2": "W5Cw8OL9LYDw4pKDIFOfTvdQUOYpQ6LJ+lzWLYFRSbA1Yts5RYyzNxsyJJ9Htrf+ZYyoB9guwMA=",
+              "x-amz-request-id": "Q2BXEBAWAFJN24YJ",
+              "date": "Sun, 27 Aug 2023 10:28:34 GMT",
+              "last-modified": "Mon, 14 Aug 2023 15:03:51 GMT",
+              "server": "AmazonS3",
+              "content-length": "258"
+            },
+            "RetryAttempts": 0
+          },
+          "LastModified": "2023-08-14 15:03:51+00:00",
+          "ETag": "670ae264ec4765821b67033dcd06263d",
+          "StorageClass": "STANDARD",
+          "ObjectSize": 14145
+        }
+      ]
+    },
+    {
+      "BucketName": "sarubucket2-second",
+      "Region": "ap-south-1",
+      "Status": "Active",
+      "IsPublic": false,
+      "Objects": [
+        {
+          "ResponseMetadata": {
+            "RequestId": "9Z6W0FDZPSV4Y2SW",
+            "HostId": "nfEl6bpfvwk+tKEdXzvHjvFBGA558C4t7w++TSuoEOgFBhZcNB/TeHo0ji0C9wsKvNJrZ922vgc=",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+              "x-amz-id-2": "nfEl6bpfvwk+tKEdXzvHjvFBGA558C4t7w++TSuoEOgFBhZcNB/TeHo0ji0C9wsKvNJrZ922vgc=",
+              "x-amz-request-id": "9Z6W0FDZPSV4Y2SW",
+              "date": "Sun, 27 Aug 2023 10:28:36 GMT",
+              "last-modified": "Mon, 14 Aug 2023 15:03:20 GMT",
+              "server": "AmazonS3",
+              "content-length": "259"
+            },
+            "RetryAttempts": 0
+          },
+          "LastModified": "2023-08-14 15:03:20+00:00",
+          "ETag": "4598adf9ff249a30efdbb31650e82e27",
+          "StorageClass": "STANDARD",
+          "ObjectSize": 423922
+        },
+        {
+          "ResponseMetadata": {
+            "RequestId": "9Z6GQG6F0WSWHVP0",
+            "HostId": "IhkwGEPiwkn+2201ilHJf4cqgEIAiY8wwiYto/kZG8PGTAv6qKfcRjoVkWHwY2cbot0IzOfEBzo=",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+              "x-amz-id-2": "IhkwGEPiwkn+2201ilHJf4cqgEIAiY8wwiYto/kZG8PGTAv6qKfcRjoVkWHwY2cbot0IzOfEBzo=",
+              "x-amz-request-id": "9Z6GQG6F0WSWHVP0",
+              "date": "Sun, 27 Aug 2023 10:28:36 GMT",
+              "last-modified": "Mon, 14 Aug 2023 15:05:46 GMT",
+              "server": "AmazonS3",
+              "content-length": "258"
+            },
+            "RetryAttempts": 0
+          },
+          "LastModified": "2023-08-14 15:05:46+00:00",
+          "ETag": "5746a0c8dfa0c8e7d8213a3dd7ffef00",
+          "StorageClass": "STANDARD",
+          "ObjectSize": 36795
+        },
+        {
+          "ResponseMetadata": {
+            "RequestId": "9Z6K29GW266YMSD6",
+            "HostId": "7MnxWDqwjUhQRGcJhi57WkZbHm0gPqkzYxhscXmbvMCiRA4NXHftifBx2LqvAJqcc18i78PxedU=",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+              "x-amz-id-2": "7MnxWDqwjUhQRGcJhi57WkZbHm0gPqkzYxhscXmbvMCiRA4NXHftifBx2LqvAJqcc18i78PxedU=",
+              "x-amz-request-id": "9Z6K29GW266YMSD6",
+              "date": "Sun, 27 Aug 2023 10:28:36 GMT",
+              "last-modified": "Mon, 14 Aug 2023 15:03:21 GMT",
+              "server": "AmazonS3",
+              "content-length": "258"
+            },
+            "RetryAttempts": 0
+          },
+          "LastModified": "2023-08-14 15:03:21+00:00",
+          "ETag": "8f8411210757d3b096b4a6d22d50f270",
+          "StorageClass": "STANDARD",
+          "ObjectSize": 18940
+        },
+        {
+          "ResponseMetadata": {
+            "RequestId": "9Z6J6K6HEV5Y33FY",
+            "HostId": "c0coZ4+UCYvK8s+2i9AUmpJj92sCGSWR483vjVFDXmS7wd52w33+q+e47cp83kK6avQ9xi137lE=",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+              "x-amz-id-2": "c0coZ4+UCYvK8s+2i9AUmpJj92sCGSWR483vjVFDXmS7wd52w33+q+e47cp83kK6avQ9xi137lE=",
+              "x-amz-request-id": "9Z6J6K6HEV5Y33FY",
+              "date": "Sun, 27 Aug 2023 10:28:36 GMT",
+              "last-modified": "Mon, 14 Aug 2023 15:03:22 GMT",
+              "server": "AmazonS3",
+              "content-length": "258"
+            },
+            "RetryAttempts": 0
+          },
+          "LastModified": "2023-08-14 15:03:22+00:00",
+          "ETag": "7dbac940f2baa7de6d056f35d1b8330a",
+          "StorageClass": "STANDARD",
+          "ObjectSize": 31832
+        },
+        {
+          "ResponseMetadata": {
+            "RequestId": "9Z6KHYG2K7KSAEY6",
+            "HostId": "oY7hnXRwF6oo7aSNwQ/EDANCOcua7+EYjOCzjH80piOjY8SMiE8qSD4tsg3MtQgq+Ng4wql2fpM=",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+              "x-amz-id-2": "oY7hnXRwF6oo7aSNwQ/EDANCOcua7+EYjOCzjH80piOjY8SMiE8qSD4tsg3MtQgq+Ng4wql2fpM=",
+              "x-amz-request-id": "9Z6KHYG2K7KSAEY6",
+              "date": "Sun, 27 Aug 2023 10:28:36 GMT",
+              "last-modified": "Mon, 14 Aug 2023 15:03:22 GMT",
+              "server": "AmazonS3",
+              "content-length": "258"
+            },
+            "RetryAttempts": 0
+          },
+          "LastModified": "2023-08-14 15:03:22+00:00",
+          "ETag": "56f1a066401ce70b39a55642778a5796",
+          "StorageClass": "STANDARD",
+          "ObjectSize": 13396
+        }
+      ]
+    },
+    {
+      "BucketName": "sarubucket3-third",
+      "Region": "ap-south-1",
+      "Status": "Active",
+      "IsPublic": false,
+      "Objects": [
+        {
+          "ResponseMetadata": {
+            "RequestId": "SNCTS7VXR133HG1T",
+            "HostId": "Weq5UxaMSQZgJ0W/Oek2K3LBZ+7uUvBAmsoUeUwlVJ37c02dCuWXNAFwKB0r6AOjT9LlsRuWSQEimTn9IfwMHw==",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+              "x-amz-id-2": "Weq5UxaMSQZgJ0W/Oek2K3LBZ+7uUvBAmsoUeUwlVJ37c02dCuWXNAFwKB0r6AOjT9LlsRuWSQEimTn9IfwMHw==",
+              "x-amz-request-id": "SNCTS7VXR133HG1T",
+              "date": "Sun, 27 Aug 2023 10:28:38 GMT",
+              "last-modified": "Mon, 14 Aug 2023 15:33:18 GMT",
+              "server": "AmazonS3",
+              "content-length": "259"
+            },
+            "RetryAttempts": 0
+          },
+          "LastModified": "2023-08-14 15:33:18+00:00",
+          "ETag": "4598adf9ff249a30efdbb31650e82e27",
+          "StorageClass": "STANDARD",
+          "ObjectSize": 423922
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+    "Buckets": [
+        {
+            "BucketName": "sarubucket1-first",
+            "Objects": [
+                {
+                    "Key": "dog2.jpg",
+                    "Public": false
+                },
+                {
+                    "Key": "dog3.jpg",
+                    "Public": false
+                },
+                {
+                    "Key": "dog4.jpg",
+                    "Public": false
+                }
+            ],
+            "ObjectCount": 3,
+            "PublicObjectsCount": 0,
+            "PrivateObjectsCount": 3
+        },
+        {
+            "BucketName": "sarubucket2-second",
+            "Objects": [
+                {
+                    "Key": "dog1.jpg",
+                    "Public": true
+                },
+                {
+                    "Key": "dog10.jpg",
+                    "Public": false
+                },
+                {
+                    "Key": "dog5.jpg",
+                    "Public": true
+                },
+                {
+                    "Key": "dog6.jpg",
+                    "Public": true
+                },
+                {
+                    "Key": "dog7.jpg",
+                    "Public": true
+                }
+            ],
+            "ObjectCount": 5,
+            "PublicObjectsCount": 4,
+            "PrivateObjectsCount": 1
+        }
+    ]
+}
